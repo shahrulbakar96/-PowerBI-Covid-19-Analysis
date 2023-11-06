@@ -9,8 +9,8 @@ While it's valuable to emphasize the positive changes that have emerged due to t
 - Interactive maps and charts that allow for visualization of the virus's spread across different regions.
 - A time frame date to provide insights for specific day, month or year.
 
-  ## Preview
+## Preview
   To view the COVID-19 analytical dashboard:
-  - Click this link for a preview:
-  - PDF mode:
-  - pbix: 
+  - Click this link for a preview: [click_here](https://github.com/shahrulbakar96/-PowerBI-Covid-19-Analysis/issues/1)
+  - PDF mode: [click_here](https://github.com/shahrulbakar96/-PowerBI-Covid-19-Analysis/blob/main/Covid-19%20Data%20Analysis%20Report.pdf)
+  - pbix: [click_here](https://github.com/shahrulbakar96/-PowerBI-Covid-19-Analysis/blob/main/Covid-19%20Data%20Analysis%20Report.pbix)
